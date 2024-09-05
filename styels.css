@@ -1,0 +1,25 @@
+html {
+	background-color: #297;
+	padding: 50px;
+	background: -webkit-linear-gradient(#297, #507);
+}
+body {
+	background-color: #257;
+	border: 3px dashed #299526;
+	background: -webkit-linear-gradient(#257, #388);
+	padding: 30px;
+	box-shadow: 0 0 20px rgba(0,0,0,0.5);
+	
+	background-image: url(./images/bg_page.png);
+}
+p {
+	font-family: "Sevillana", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	color: #165;
+	font-size: 25pt;
+}
+h1, h2{
+	color: #789578;
+	
+}

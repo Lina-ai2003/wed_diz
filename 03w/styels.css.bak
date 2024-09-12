@@ -1,0 +1,20 @@
+body{
+	background-color: #123;
+	padding: 0 20px 20px 20px;
+	margin:0;
+}
+p {
+	color: #456;
+	font-size: 1em;
+	font-family: Arial, sans-serif;
+}
+h1, h2, h3 {
+	color: #789;
+	font-family: Arial, sans-serif;
+	border-bottom: 2px solid #899;
+	padding-top: 10px;
+	padding-bottom: 5px;
+}
+h1{
+	font-size: 2em;
+}

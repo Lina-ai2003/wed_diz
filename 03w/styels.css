@@ -29,3 +29,23 @@ h1{
 	padding: 10px;
 	
 }
+.note {
+	color: black;
+	border: 2px solid white;
+	background-color:#456;
+	margin-top: 25px;
+	margin-bottom: 35px;
+	padding: 20px;
+}
+.note strong {
+	color: #699;
+}
+article {
+	max-width: 760px;
+	margin: 0 auto;
+}
+h1+p {
+	color: #699;
+	font-size: 1.2em;
+	line-height: 140%;
+}

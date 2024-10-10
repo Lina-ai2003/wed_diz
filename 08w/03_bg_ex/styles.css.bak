@@ -119,10 +119,10 @@ html {
 
 .announcement {
 	margin-top: 115px;
-	background: url(images/scroll_top.jpg) no-repeat center top,
-				url(images/scroll_bottom.jpg) no-repeat center bottom,
+	background: url(images/12.jpg) no-repeat center top,
+				url(images/12.jpg) no-repeat center bottom,
 				url(images/p.jpg) no-repeat center top;
-	
+	background-size: 325px 265px;
 	padding: 70px 0 60px 0;
 }
 

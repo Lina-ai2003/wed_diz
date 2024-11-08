@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Большая книга CSS</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:400,300,700&subset=latin,Cyrillic" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href = "css/normalize.css">
+  <link rel="stylesheet" href = "css/skeleton.css">
+  <link rel="stylesheet" href = "css/custom.css">
+  
+</head>
+<body>
+<!-- основной раздел -->
+<div class="section header">
+
+<div class="container">
+	<div class="row">
+		<div class="four columns">
+			<p class="logo"> Адаптативная верстка </p>
+		</div>
+		<div class="eight columns nav">
+			<a class="button button-primary" href="#">Главная</a>
+			<a class="button" href="03-info.html">Клиенты</a>
+			<a class="button" href="04-footer.html">О нас</a>
+			<a class="button" href="02-action.html">Вакансии</a>
+		</div>
+	</div>
+	<div class="row action">
+		<h1>Адаптивная верстка сайта — это формирование структуры документа на базе HTML-разметки, предусматривающей автоматическое изменение страницы в зависимости от размера экрана пользователя. Простыми словами это макет страницы, автоматически подстраивающийся под размер экрана пользователя.</h1>
+		
+	</div>
+</div>
+</div>
+<!-- раздел контента -->
+<div class="container">
+	<div class="row">
+		<h2>История адаптативного дизайна</h2>
+	</div>
+	<div class="row">
+		<div class="four columns">
+			<p>Целью адаптивного веб-дизайна является универсальность отображения содержимого веб-сайта для различных устройств. Для того, чтобы веб-сайт был удобно просматриваемым с устройств форматов и с экранами различных разрешений, по технологии адаптивного веб-дизайна не нужно создавать отдельные версии веб-сайта для отдельных видов устройств. Один сайт может работать на смартфоне, планшете, ноутбуке и телевизоре с выходом в интернет, то есть на всем спектре устройств.</p>
+			
+		</div>
+		<div class="four columns">
+			 <p>  Впервые понятие отзывчивого веб-дизайна ввёл Итан Маркотт в одной из своих статей в мае 2010 года. Впоследствии он выпустил книгу под названием «Responsive Web Design», посвященную данной технологии.
+
+Джеффри Зельдман предложил расширить понятие Итана Маркотта, чтобы оно покрывало любые подходы, обеспечивающие ясное визуальное восприятие независимо от характеристик экрана и других ограничений пользовательского устройства.
+			</p>
+		
+		</div>
+		<div class="four columns">
+			<p> С другой стороны, Аарон Густафсон выпустил книгу «Adaptive Web Design: Crafting Rich Experiences with Progressive Enhancement», которая рассматривает метод «постепенного улучшения» как важную составляющую адаптивного дизайна.
+
+В результате среди веб-дизайнеров стали понимать адаптивный дизайн как более широкое понятие, включающее отзывчивый дизайн (в качестве одной из реализаций адаптивности) и постепенное улучшение.</p>
+		
+		</div>
+	</div>
+</div>
+<!-- колонтитул -->
+<div class="container">
+	<div class="row">
+		<div class="eight columns">
+			<p>© Первая попытка сделать нормальный сайт.</p>
+		</div>
+
+	</div>
+</div>
+</body>
+</html>

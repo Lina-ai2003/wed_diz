@@ -1,0 +1,43 @@
+html {
+	font-family: Aral;
+	padding: 25px;
+	}
+	
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	/*align-items: flex-start;*/
+	width: 75%;
+	height: 550px;
+	border: 3px solid red;
+	align-content: space-around;
+}
+	
+.container div{
+	border: 2px dotted blue;
+	width: 350px;
+}
+
+.container .div1 {
+	display: flex;
+	flex-direction: column;
+}
+.container .div1 p{
+	border: 1px dashed gray;
+	padding: 5px;
+}
+
+.container .div2{
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap-reverse;
+	
+}
+
+.container .div2 p{
+	
+	border: 2px dotted green;
+	padding: 5px;
+	
+}
+

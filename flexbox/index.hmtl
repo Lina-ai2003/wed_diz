@@ -1,0 +1,31 @@
+	<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<title>Большая книга CSS</title>
+<link href="stylex.css" rel="stylesheet">
+</head>
+<body>
+</body>
+<div class="container">
+	<div class="div1">
+		<p> параграф 1</p>
+		<p> параграф 2</p>
+		<p> параграф 3</p>
+	</div>
+	
+	<div class="div2">
+		<p> параграф 1</p>
+		<p> параграф 2</p>
+		<p> параграф 3</p>
+	</div>
+	
+	<div class="div3">
+		<p> параграф 1</p>
+		<p> параграф 2</p>
+		<p> параграф 3</p>
+	</div>
+</div>
+</body>
+</html>
